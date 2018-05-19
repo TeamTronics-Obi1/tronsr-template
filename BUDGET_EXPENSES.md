@@ -1,4 +1,4 @@
 Budget Expenses
 ===============
 
-Supply a clear budget line.
+Please checkout https://www.teamtronics.org/ for more details. 
