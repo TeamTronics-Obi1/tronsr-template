@@ -1,6 +1,7 @@
 Server Configuration
 ====================
 
-As to the server configuration before June 26, set the official recommended configuration as a qualified line (device configuration: x1.16xlarge 64 core 1T memory 20T SSD storage (EBS) 25G bandwidth). Evaluation will also be implemented in three aspects of the performance mentioned in the expansion plan.
-
-According to above criteria, the content submitted by candidates will be scored appropriately, with a maximum score of 1 point.
+During Testnet we are running (2 Full Nodes, 1 Super Node), both Full Nodes are running on physical hardware, our Wintess node is running on AWS crrently, but we will expand it in the future.
+Our MainNet Server configs are as follows:
+Server placement United States (Portland)
+AWS X1.16xlarge - 64 Core CPU - 1 TB RAM - 1.9 TB SSD (EBS) - 25 GB Broadband
