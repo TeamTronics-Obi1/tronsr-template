@@ -5,7 +5,7 @@
 * Scott Faunce - Teammanager Tech/IT
 * Justinas Kairys - Cybersecurity and Blockchain
 * Fabrice Dautriat - Technical account manager
-* Kilroy Dillon - Campaign manager
+* Kilroy Dillon - Community manager
 * Brent Norris - Design and education
 
 
