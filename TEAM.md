@@ -6,6 +6,7 @@
 * Justinas Kairys - Cybersecurity and Blockchain
 * Fabrice Dautriat - Technical account manager
 * Kilroy Dillon - Community manager
+* Jason Cser - Campaign manager
 * Brent Norris - Design and education
 
 
