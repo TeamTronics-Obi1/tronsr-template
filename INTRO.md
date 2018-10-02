@@ -5,7 +5,7 @@ blockchain technology and all there is to know about supernodes.
 
  
 ## For More Info
- * Homepage  https://www.teamtronics.org/
+ * Homepage  https://www.tronics.io/
  * Facebook  https://www.facebook.com/groups/teamtronics/
  * Twitter  https://twitter.com/team_tronics
  * Telegram community  https://t.me/TronicsNetwork
