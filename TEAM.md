@@ -1,12 +1,12 @@
 ## The Team
 
-* Drew Wise - Teamleader and co-initiator of Team Tronics
-* Samuel Austin - Teammanager Education and Adoption
-* Scott Faust - Teammanager Tech/IT
-* Justinas Kairys - Cybersecurity and Blockchain
-* Fabrice Dautriat - Technical account manager
-* Kilroy Dillon - Community manager
-* Jason Cser - Campaign manager
+* Drew Wise - Teamleader and co-founder of Team Tronics
+* Samuel Austin - Business Development
+* Obi - Tech/Data
+* Justinas  - Cybersecurity and Blockchain
+* Fabrice - Technical account manager
+* Kilroy - Community manager
+
 
 
 
